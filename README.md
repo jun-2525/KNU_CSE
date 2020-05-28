@@ -7,4 +7,6 @@ Kongju National University Computer Science Engeneering
 -학교 메일 가입은 (공주대학교 포탈 로그인-MS OFFICE 365 · 학생메일-Office 365 바로가기-가입하기) 에서 하실 수 있습니다.
 (포탈 시스템이 옛날꺼라 익스플로러로 로그인하세요.)
 
-|소프트웨어 & 서비스|제공 |
+| 소프트웨어 및 서비스                                         | 제공 항목                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[Office 365](https://www.office.com/?auth=2)**<br />id@smail.kongju.ac.kr로 로그인 후 다운로드 | - G Suite<br />- 무제한 Google Drive<br />- @u.soagng.ac.kr 이메일 |
