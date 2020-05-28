@@ -1,2 +1,2 @@
 # KNU_CSE
-Kongju National University Coumoputer Science Engeneering
+Kongju National University Computer Science Engeneering
