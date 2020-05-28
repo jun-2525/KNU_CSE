@@ -13,3 +13,5 @@ Kongju National University Computer Science Engeneering
 | **[Windows 10 Education](http://portal.kongju.ac.kr/knu/statics/n_sw_win10.jsp)** <br />학교 메일로 인증|- Windows 10 Education|
 | **[AutoDesk](http://portal.kongju.ac.kr/knu/statics/Autodesk_kongju_v3.html)**<br /> 3DMAX, AutoCAD, MAYA3D 등| - 어..? 이거 그냥 들어가지면 안되는거 아닌가?|
 | **[GitHub Education Pack](https://education.github.com/pack)**<br />학교 메일로 신청| - 2년간 Github Pro 이용 가능 <br /> - 학생이라면 갱신 가능|
+| **[AWS Educate](https://aws.amazon.com/ko/education/awseducate)** <br /> 학교 메일로 신청|
+| **[학생용 MS Azure Starter](https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/)**<br /> 학교 메일로 신청
