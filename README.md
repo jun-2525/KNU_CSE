@@ -2,7 +2,7 @@
 Kongju National University Computer Science Engeneering
 
 # 포탈을 통하지 않고 통합시스템 로그인하기
-
+[이곳](https://github.com/sonjun/KNU_CSE/blob/master/MyBrowserPlus.exe)을 클릭해 다운받은 후 바탕화면의 공주 통합 바로가기 실행
 
 # 학교에서 받을 수 있는 혜택
 ## 무료 소프트웨어 & 서비스
