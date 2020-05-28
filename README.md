@@ -9,4 +9,4 @@ Kongju National University Computer Science Engeneering
 
 | 소프트웨어 및 서비스                                         | 제공 항목                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[Office 365](https://www.office.com/?auth=2)**<br />id@smail.kongju.ac.kr로 로그인 후 다운로드 | - G Suite<br />- 무제한 Google Drive<br />- @u.soagng.ac.kr 이메일 |
+| **[Office 365](https://www.office.com/?auth=2)**<br />~id@smail.kongju.ac.kr 로 로그인 후 다운로드 | -One Drive 1TB 제공<br />-  />-  |
