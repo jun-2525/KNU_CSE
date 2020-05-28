@@ -9,4 +9,5 @@ Kongju National University Computer Science Engeneering
 
 | 소프트웨어 및 서비스                                         | 제공 항목                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[Office 365](https://www.office.com/?auth=2)**<br />~id@smail.kongju.ac.kr 로 로그인 후 다운로드 | - One Drive 1TB 무료제공<br />- office 365 프로그램(프레젠테이션 , 엑셀 등) 제공 <br />- 메일함 50GB 제공 (필요없음 ㅋㅋ)  |
+| **[Office 365](https://www.office.com/?auth=2)**<br />~id@smail.kongju.ac.kr 로 로그인 후 다운로드 | - One Drive 1TB 무료제공<br />- office 365 프로그램(프레젠테이션 , 엑셀 등) 제공 <br />- 메일함 50GB 제공 (~~필요없어~~)  |
+| **[Windows 10 Education 안내페이지](http://portal.kongju.ac.kr/knu/statics/n_sw_win10.jsp)**
