@@ -1,5 +1,5 @@
 # KNU_CSE
-Kongju National University Computer Science Engeneering
+Kongju National University Computer Science Engineering
 
 # 포탈을 통하지 않고 통합시스템 로그인하기
 [이 곳](https://github.com/sonjun/KNU_CSE/blob/master/MyBrowserPlus.exe)을 클릭해 다운받은 후 바탕화면의 공주 통합 바로가기 실행
