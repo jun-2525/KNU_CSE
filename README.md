@@ -18,4 +18,4 @@ Kongju National University Computer Science Engeneering
 | **[GitHub Education Pack](https://education.github.com/pack)**<br />학교 메일로 신청| - 2년간 Github Pro 이용 가능 <br /> - 학생이라면 갱신 가능|
 | **[AWS Educate](https://aws.amazon.com/ko/education/awseducate)** <br /> 학교 메일로 신청|
 | **[학생용 MS Azure Starter](https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/)**<br /> 학교 메일로 신청
-| **[Google G-suite](https://gsuite.google.com/intl/ko/)**<br />신청서 작성 후 gsuite@kongju.ac.kr 로 신청 [[서식 다운로드]](https://www.kongju.ac.kr/cms/attach/85830ae048026d4e601e5fabc203b6f7/9a9db098b587ee18b321c826f3707a49)|
+| **[Google G-suite](https://gsuite.google.com/intl/ko/)**<br />신청서 작성 후 gsuite@kongju.ac.kr 로 신청 [[서식 다운로드]](https://www.kongju.ac.kr/cms/attach/85830ae048026d4e601e5fabc203b6f7/9a9db098b587ee18b321c826f3707a49)| - 무제한 Google Drive 
