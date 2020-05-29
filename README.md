@@ -24,12 +24,12 @@ Kongju National University Computer Science Engeneering
 
 
 # 유용한 소프트웨어 및 서비스
-|**분류**|**이름**|**가격**|**설명**|
-|----|----|----|----|------|
-|솔루션|[**Slader**](https://slader.com)|무료|무료 솔루션 사이트(영어) <br>다른 학생들의 풀이과정 제공|
-|솔루션|[**Chegg Study**](https://chegg.com/study)|$14.95/mo|유료 솔루션 사이트(영어) <br>출판사 공식 솔루션 제공|
-|계산|[**Wolfram Alpha**](https://wolframalpha.com)|**기본**: 무료<br>**Android, iOS, Windows 10 앱 (Pro 버전 포함)**: 약 3,000원<br>Pro 버전: $4.75/mo|미적분, 미분방정식, 행렬 등 각종 수식의 계산 결과와 풀이 과정을 알려주는 서비스 <br>풀이 과정 확인은 Pro 버전에서만 가능
-|노트|[**Notion**](https://notion.so)|부분 유료|노트, 칸반 보드, 위키, 데이터베이스, 달력 등 다양한 기능을 지원하는 노트 서비스<br>Markdown, LaTeX 문법 지원
-|문서|[**Typora**](https://typora.io)|무료|무료 Markdown 에디터 <br>과제 초안, 수업 내용 기록 등 간단한 문서 작업에 적합 <br>Code fence, LaTeX 지원|
-|문서|[**Google Docs**](https://docs.google.com)|무료|협업에 최적화된 온라인 워드프로세서
-|문서|[**Grammarly**](https://grammarly.com)|부분 유료|AI기반 영어 문법 검사/교정 서비스<br>무료 버전으로도 대부분의 기능 사용 가능
+| **분류** |**이름**|**가격**|**설명**|
+|----|----|----|----|
+| 솔루션 |[**Slader**](https://slader.com)|무료|무료 솔루션 사이트(영어) <br>다른 학생들의 풀이과정 제공|
+| 솔루션 |[**Chegg Study**](https://chegg.com/study)|$14.95/mo|유료 솔루션 사이트(영어) <br>출판사 공식 솔루션 제공|
+| 계산 |[**Wolfram Alpha**](https://wolframalpha.com)|**기본**: 무료<br>**Android, iOS, Windows 10 앱 (Pro 버전 포함)**: 약 3,000원<br>Pro 버전: $4.75/mo|미적분, 미분방정식, 행렬 등 각종 수식의 계산 결과와 풀이 과정을 알려주는 서비스 <br />풀이 과정 확인은 Pro 버전에서만 가능|
+| 노트 |[**Notion**](https://notion.so)|부분 유료|노트, 칸반 보드, 위키, 데이터베이스, 달력 등 다양한 기능을 지원하는 노트 서비스<br>Markdown, LaTeX 문법 지원|
+| 문서 작성 |[**Typora**](https://typora.io)|무료|무료 Markdown 에디터 <br>과제 초안, 수업 내용 기록 등 간단한 문서 작업에 적합 <br>Code fence, LaTeX 지원|
+| 문서 작성 |[**Google Docs**](https://docs.google.com)|무료|협업에 최적화된 온라인 워드프로세서|
+| 문서 작성 |[**Grammarly**](https://grammarly.com)|부분 유료|AI기반 영어 문법 검사/교정 서비스<br>무료 버전으로도 대부분의 기능 사용 가능|
