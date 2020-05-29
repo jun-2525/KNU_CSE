@@ -12,12 +12,12 @@ Kongju National University Computer Science Engeneering
 
 | 소프트웨어 및 서비스                                         | 제공 항목                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[Office 365](https://www.office.com/?auth=2)**<br />학교 메일로 로그인 후 다운로드 | - One Drive 1TB 무료제공<br />- office 365 프로그램(프레젠테이션 , 엑셀 등) 제공 <br />- 메일함 50GB 제공 (~~필요없어~~)  |
-| **[Windows 10 Education](http://portal.kongju.ac.kr/knu/statics/n_sw_win10.jsp)** <br />학교 메일로 인증|- Windows 10 Education|
+| **[Office 365](./Instructions/o365.md)**<br />학교 메일로 로그인 후 다운로드 | - One Drive 1TB 무료제공<br />- office 365 프로그램(프레젠테이션 , 엑셀 등) 제공 <br />- 메일함 50GB 제공 (~~필요없어~~)  |
+| **[Windows 10 Education](./Instructions/win10.md)** <br />학교 메일로 인증|- Windows 10 Education|
 | **[AutoDesk](http://portal.kongju.ac.kr/knu/statics/Autodesk_kongju_v3.html)**<br /> 3DMAX, AutoCAD, MAYA3D 등| - 어..? 이거 그냥 들어가지면 안되는거 아닌가?|
-| **[GitHub Education Pack](https://education.github.com/pack)**<br />학교 메일로 신청| - 2년간 Github Pro 이용 가능 <br /> - 학생이라면 갱신 가능|
-| **[AWS Educate](https://aws.amazon.com/ko/education/awseducate)** <br /> 학교 메일로 신청|
-| **[학생용 MS Azure Starter](https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/)**<br /> 학교 메일로 신청
+| **[GitHub Education Pack](./Instructions/github.md)**<br />학교 메일로 신청| - 2년간 Github Pro 이용 가능 <br /> - 학생이라면 갱신 가능|
+| **[AWS Educate](./Instructions/aws.md)** <br /> 학교 메일로 신청|
+| **[학생용 MS Azure Starter](./Instructions/azure.md)**<br /> 학교 메일로 신청
 | **[Google G-suite](https://gsuite.google.com/intl/ko/)**<br />신청서 작성 후 gsuite@kongju.ac.kr 로 신청 [[서식 다운로드]](https://www.kongju.ac.kr/cms/attach/85830ae048026d4e601e5fabc203b6f7/9a9db098b587ee18b321c826f3707a49)| - 무제한 Google Drive 등|
 
 부족하거나 추가하고 싶은 내용이 있으시면 [issues](https://github.com/jun-2525/KNU_CSE/issues)에 적어주시면 감사하겠습니다 :)
