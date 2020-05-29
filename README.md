@@ -20,4 +20,4 @@ Kongju National University Computer Science Engeneering
 | **[학생용 MS Azure Starter](https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/)**<br /> 학교 메일로 신청
 | **[Google G-suite](https://gsuite.google.com/intl/ko/)**<br />신청서 작성 후 gsuite@kongju.ac.kr 로 신청 [[서식 다운로드]](https://www.kongju.ac.kr/cms/attach/85830ae048026d4e601e5fabc203b6f7/9a9db098b587ee18b321c826f3707a49)| - 무제한 Google Drive 등|
 
-## 부족하거나 추가하고 싶은 내용이 있으시면 issues에 적어주시면 감사하겠습니다 :)
+# 부족하거나 추가하고 싶은 내용이 있으시면 issues에 적어주시면 감사하겠습니다 :)
